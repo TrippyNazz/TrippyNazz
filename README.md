@@ -1,9 +1,9 @@
-![](https://github.com/nazsulaman/nazsulaman/header_1.png)
+![](https://github.com/nazsulaman/header_1.png)
 <h1 align="center">Hi, I'm Naz Sulaman 👋</h1>
 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/naz-sulaman/"><img height="30" src="https://github.com/nazsulaman/nazsulaman/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/naz-sulaman/"><img height="30" src="https://github.com/nazsulaman/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 I am a contract front-end developer from Canada. Currently, I have been focusing on Web3 as a well as developing web systems. Passionate about the latest technological advancements, with a focus on innovation. Have experience with React, Javascript, Java 
 
