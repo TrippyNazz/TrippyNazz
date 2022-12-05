@@ -15,4 +15,4 @@ I am a contract front-end developer from Canada. Currently, I have been focusing
 
 | GitHub Stats | Most Used Languages |
 | ------------- | ------------- |
-| ![Naz Sulaman GitHub stats](https://github-readme-stats.vercel.app/api?username=nazsulaman&show_icons=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazsulaman)]|
+| ![Naz Sulaman GitHub stats](https://github-readme-stats.vercel.app/api?username=nazsulaman&show_icons=true)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazsulaman)|
