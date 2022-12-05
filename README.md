@@ -5,7 +5,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/naz-sulaman/"><img height="30" src="https://github.com/nazsulaman/nazsulaman/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-I am a contract front-end developer from Canada. Currently, I have been focusing on Web3 as a well as developing web systems. Passionate about the latest technological advancements, with a focus on innovation. Have experience with React, Javascript, and Java. 
+I am a contract front-end developer from Canada. Currently, I have been focusing on Web3 as a well as developing web systems. Passionate about the latest technological advancements, with a focus on innovation. Have experience with React, Javascript, Java, and C#. 
 
 
 <br/><br/>
